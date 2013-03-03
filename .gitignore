@@ -6,6 +6,7 @@
 .project
 .metadata
 bin/
+gen/
 tmp/
 *.tmp
 *.bak
@@ -28,6 +29,10 @@ local.properties
 # PDT-specific
 .buildpath
 
+#############
+## Android
+#############
+R.java
 
 #################
 ## Visual Studio
